@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+
+# production
+build/
+
+# misc
+.DS_Store
+.env
+.env.*
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# testing
+coverage/
+
+# local
+*.local
+
+# vscode
+.vscode/
+
+# macOS
+Icon?
+
+# others
+*.swp
+*.swo
+
+# Do NOT ignore memos.json (for versioning) 
